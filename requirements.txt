@@ -1,0 +1,10 @@
+streamlit==1.37.1
+torch==2.2.2
+torchvision==0.17.2
+facenet-pytorch==2.6.0
+emotiefflib==1.1.1
+opencv-python-headless==4.9.0.80
+Pillow==10.2.0
+protobuf==3.20.3
+transformers==4.44.2
+google-generativeai==0.8.5
